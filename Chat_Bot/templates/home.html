@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Real Estate Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Welcome to the Austin, TX Real Estate Chatbot!</h1>
+      <p>What are you looking for today?</p>
+      <p>For most accurate use, please insert just the numbers in order by bed, bath, square feet, and price.</p
+      <p>If you don't know the square feet please enter 0.</p>
+        <form action="/chatbot" method="post">
+        <input type="text" name="user_message">
+        <input type="submit" value="Send">
+      </form>
+    </div>
+  </body>
+</html>

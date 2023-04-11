@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Real Estate Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <div class="container">
+      <h2>You said:</h2>
+      <p>{{ user_message }}</p>
+      <h2>The chatbot says:</h2>
+      <p>{{ bot_message }}</p>
+      <a href="/">Back to home</a>
+    </div>
+  </

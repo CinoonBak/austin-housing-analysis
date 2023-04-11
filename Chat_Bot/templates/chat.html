@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Austin, TX Real Estate Chatbot</title>
+</head>
+<body>
+  <h1>Austin, TX Real Estate Chatbot</h1>
+  <p>You: {{ user_message }}</p>
+  <p>Bot: {{ bot_message }}</p>
+  <p>For most accurate use, please insert just the numbers in order by bed, bath, square feet, and price:</p>
+  <p>If you don't know the square feet number please enter 0.</p>
+  <form action="/chatbot" method="post">
+    <input type="text" name="user_message">
+    <button type="submit">Send</button>
+  </form>
+</body>
+</html>

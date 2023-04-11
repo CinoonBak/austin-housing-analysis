@@ -1,0 +1,5 @@
+Chat_Bot/
+    chat_bot.py
+    templates/
+        home.html
+        chat.html 
