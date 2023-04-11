@@ -44,4 +44,13 @@ I have used Elbow method, Siluhouette Score method, Calinski Harabasz method, De
 * Dendrogram: 4
 # Model Building
 * Even though most of the methods suggested me to use lower number of clusers, however, I chose to use 10 clusters since I wanted more specific classifier and all of the methods second best optimal cluster number was close to 10. 
-* 
+* With ten clusters the clusters have tighter space in between. 
+<img width="803" alt="Screen Shot 2023-04-11 at 4 06 16 PM" src="https://user-images.githubusercontent.com/118776460/231288187-d046c877-6aa7-48be-8c71-b9bea694d09f.png">
+
+# Local Website
+I have made a chat bot website that gives back the zipcode regarding the users input of bed number, bath number, square feet, and price. I've tried three algorithms and gradient boosting classifier was the best fit for this chat bot. 
+* I used Sublime Text to write my python and HTML code. 
+* KNN clustering and Support Vector Machine was not accuarte in classifying higher number of bed and bath. This is because the model was not able to be train more with higher number of beds and bath. 
+* Gradient boosting classifier was the best one on responding accuatly with all kinds of input. 
+<img width="652" alt="Screen Shot 2023-04-11 at 4 11 20 PM" src="https://user-images.githubusercontent.com/118776460/231289169-e688d2b4-b36f-41fe-93fe-a3260493340a.png">
+<img width="658" alt="Screen Shot 2023-04-11 at 4 11 31 PM" src="https://user-images.githubusercontent.com/118776460/231289186-6bbbc10e-abb5-4dd2-8a42-aa2e57409a07.png">
