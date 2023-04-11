@@ -1,0 +1,676 @@
+,Location,Price,Sqft,Bath,Bed,Street,zipcode
+0,"9103 White Coral Dr, Austin, TX 78729",495000.0,1898,3,3,9103 White Coral Dr, 78729
+1,"918 Pittsburgh Dr #100, Austin, TX 78748",495000.0,2038,3,3,918 Pittsburgh Dr #100, 78748
+2,"6819 Ashprington Ln, Austin, TX 78754",385000.0,2391,2,4,6819 Ashprington Ln, 78754
+3,"8102 Verbank Villa Dr, Austin, TX 78747",384900.0,1752,2,4,8102 Verbank Villa Dr, 78747
+4,"5732 Signal Point, Austin, TX 78724",315000.0,1320,2,3,5732 Signal Point, 78724
+5,"12504 Esplanade St, Austin, TX 78727",385000.0,1235,2,3,12504 Esplanade St, 78727
+6,"8501 Thompson Teal Trl, Austin, TX 78744",778131.0,2558,3,4,8501 Thompson Teal Trl, 78744
+7,"1801 Alamo Heights Ave, Austin, TX 78754",465000.0,1922,2,4,1801 Alamo Heights Ave, 78754
+8,"10305 Beard Ave, Austin, TX 78748",675000.0,2190,3,3,10305 Beard Ave, 78748
+9,"11508 Indianhead Dr, Austin, TX 78753",550000.0,1635,2,4,11508 Indianhead Dr, 78753
+10,"2503 Wood Chase Trl, Austin, TX 78728",475000.0,2468,3,4,2503 Wood Chase Trl, 78728
+11,"3008 Burks Ln, Austin, TX 78732",750000.0,2563,2,3,3008 Burks Ln, 78732
+12,"5805 Brook Valley Dr, Austin, TX 78724",449000.0,1553,2,3,5805 Brook Valley Dr, 78724
+13,"1021 Quail Park Dr, Austin, TX 78758",759000.0,2522,2,3,1021 Quail Park Dr, 78758
+14,"11234 Wyola Bnd, Austin, TX 78717",750000.0,2661,4,4,11234 Wyola Bnd, 78717
+15,"9921 Baxter Ln, Austin, TX 78736",950000.0,4790,4,5,9921 Baxter Ln, 78736
+16,"4912 Dorchester Heights Ln, Austin, TX 78754",324900.0,1613,2,3,4912 Dorchester Heights Ln, 78754
+17,"5401 Wellington Dr, Austin, TX 78723",559900.0,1370,2,4,5401 Wellington Dr, 78723
+18,"8408 Cayuga Dr, Austin, TX 78749",650000.0,1615,2,3,8408 Cayuga Dr, 78749
+19,"5804 Levenwood Ln, Austin, TX 78724",329900.0,1510,2,3,5804 Levenwood Ln, 78724
+20,"12348 Donovan Cir, Austin, TX 78753",375000.0,1796,3,3,12348 Donovan Cir, 78753
+21,"6317 Florencia Ln, Austin, TX 78724",699000.0,2264,3,3,6317 Florencia Ln, 78724
+22,"13908 Cantata Ln, Pflugerville, TX 78660",435000.0,1706,2,3,13908 Cantata Ln, 78660
+23,"2516 Dove Springs Dr, Austin, TX 78744",343000.0,1014,2,3,2516 Dove Springs Dr, 78744
+24,"9204 Pioneer Forest Dr, Austin, TX 78744",328000.0,1492,2,3,9204 Pioneer Forest Dr, 78744
+25,"5120 Eagle Trace Trl, Austin, TX 78730",1700000.0,4277,3,4,5120 Eagle Trace Trl, 78730
+26,"7903 Bannock Ln, Austin, TX 78747",429900.0,2761,3,4,7903 Bannock Ln, 78747
+27,"8507 Selway Dr, Austin, TX 78736",435000.0,1564,2,3,8507 Selway Dr, 78736
+28,"3708 Denehoe Cv, Austin, TX 78725",285000.0,1467,3,3,3708 Denehoe Cv, 78725
+29,"1411 Blakeney Ln, Austin, TX 78753",350000.0,1158,2,3,1411 Blakeney Ln, 78753
+30,"11713 Saddle Rock Dr, Austin, TX 78725",449900.0,1878,3,4,11713 Saddle Rock Dr, 78725
+31,"5510 Cordell Ln, Austin, TX 78723",475000.0,1183,2,3,5510 Cordell Ln, 78723
+32,"11603 Elk Park Trl, Austin, TX 78759",399500.0,1732,2,3,11603 Elk Park Trl, 78759
+33,"12912 Water Wheel Cv, Austin, TX 78729",535000.0,1646,3,3,12912 Water Wheel Cv, 78729
+34,"5941 Salcon Cliff Dr, Austin, TX 78749",650000.0,2166,3,4,5941 Salcon Cliff Dr, 78749
+35,"9001 China Rose Dr, Austin, TX 78724",399950.0,2088,3,4,9001 China Rose Dr, 78724
+36,"1207 Radam Cir, Austin, TX 78745",699000.0,1404,2,3,1207 Radam Cir, 78745
+38,"5311 Avenue G, Austin, TX 78751",650000.0,2918,5,5,5311 Avenue G, 78751
+39,"(undisclosed Address), Austin, TX 78744",449900.0,2089,3,3,(undisclosed Address), 78744
+40,"2601 Coatbridge Dr, Austin, TX 78745",599000.0,1695,2,4,2601 Coatbridge Dr, 78745
+41,"3813 Wilson St, Austin, TX 78704",2490000.0,3114,3,4,3813 Wilson St, 78704
+42,"1706 Romeria Dr, Austin, TX 78757",1990000.0,3027,3,4,1706 Romeria Dr, 78757
+43,"6508 Taylorcrest Dr, Austin, TX 78749",639000.0,2293,2,3,6508 Taylorcrest Dr, 78749
+44,"8624 Wiley Way, Austin, TX 78747",356000.0,2068,3,3,8624 Wiley Way, 78747
+45,"4802 Hale Dr, Austin, TX 78749",575000.0,2144,3,3,4802 Hale Dr, 78749
+46,"5608 Cordell Ln, Austin, TX 78723",475000.0,1439,2,3,5608 Cordell Ln, 78723
+47,"285 Country Creek Dr, Austin, TX 78737",659900.0,2777,3,3,285 Country Creek Dr, 78737
+48,"11814 Highland Oaks Trl, Austin, TX 78759",525000.0,1445,2,3,11814 Highland Oaks Trl, 78759
+49,"4706 Rustown Dr, Austin, TX 78727",495000.0,2094,3,3,4706 Rustown Dr, 78727
+50,"12400 Cedar St, Austin, TX 78732",35000000.0,15394,13,6,12400 Cedar St, 78732
+51,"6504 Stonleigh Pl, Austin, TX 78744",224900.0,1204,2,3,6504 Stonleigh Pl, 78744
+52,"1608 Lakecliff Hills Ln, Austin, TX 78732",1899000.0,4524,4,5,1608 Lakecliff Hills Ln, 78732
+53,"305 Shep St, Austin, TX 78748",399999.0,1299,2,3,305 Shep St, 78748
+54,"6020 La Naranja Ln, Austin, TX 78749",575000.0,1896,3,4,6020 La Naranja Ln, 78749
+55,"12509 Central Park Dr, Austin, TX 78732",649000.0,2608,3,4,12509 Central Park Dr, 78732
+56,"12906 Broadmeade Ave, Austin, TX 78729",550000.0,2117,3,5,12906 Broadmeade Ave, 78729
+57,"7408 Cordoba Dr, Austin, TX 78724",795000.0,2390,3,3,7408 Cordoba Dr, 78724
+58,"2710 E 22nd St, Austin, TX 78722",749900.0,560,1,2,2710 E 22nd St, 78722
+59,"6368 Tasajillo Trl, Austin, TX 78739",785000.0,2993,3,3,6368 Tasajillo Trl, 78739
+60,"1408 Northwood Rd, Austin, TX 78703",2850000.0,3756,4,5,1408 Northwood Rd, 78703
+61,"4600 Sojourner St, Austin, TX 78725",379000.0,1664,3,3,4600 Sojourner St, 78725
+62,"4325 Ganymede Dr, Austin, TX 78727",799950.0,2359,3,4,4325 Ganymede Dr, 78727
+63,"8617 Barrow Glen Loop, Austin, TX 78749",618000.0,2013,2,4,8617 Barrow Glen Loop, 78749
+64,"4011 Alexandria Dr, Austin, TX 78749",549000.0,1220,2,3,4011 Alexandria Dr, 78749
+65,"910 E 13th St, Austin, TX 78702",1400000.0,884,1,3,910 E 13th St, 78702
+66,"4504 Halliday Ave, Austin, TX 78725",340000.0,1344,2,3,4504 Halliday Ave, 78725
+67,"9813 Meadowheath Dr, Austin, TX 78729",396000.0,2105,2,3,9813 Meadowheath Dr, 78729
+68,"1184 Oak Grove Ave, Austin, TX 78702",698900.0,1256,3,3,1184 Oak Grove Ave, 78702
+69,"4604 Borage Dr, Austin, TX 78744",399900.0,1144,2,3,4604 Borage Dr, 78744
+70,"6213 Pennwood Ln, Austin, TX 78745",555000.0,1334,2,3,6213 Pennwood Ln, 78745
+71,"5913 Diamondleaf Bnd, Austin, TX 78724",393900.0,2047,2,4,5913 Diamondleaf Bnd, 78724
+72,"11100 Crossland Dr, Austin, TX 78726",799900.0,2810,3,4,11100 Crossland Dr, 78726
+73,"2305 Rockridge Dr, Austin, TX 78744",299000.0,1440,1,4,2305 Rockridge Dr, 78744
+75,"1620 Sir Thopas Trl, Austin, TX 78748",388800.0,1202,2,3,1620 Sir Thopas Trl, 78748
+76,"10508 Lark Ct, Austin, TX 78758",550000.0,1270,2,3,10508 Lark Ct, 78758
+77,"1301 W 29th St, Austin, TX 78703",11750000.0,6528,7,5,1301 W 29th St, 78703
+78,"5304 Ponciana Dr, Austin, TX 78744",333000.0,1101,2,3,5304 Ponciana Dr, 78744
+79,"6313 Zadock Woods Dr, Austin, TX 78749",850000.0,2936,3,4,6313 Zadock Woods Dr, 78749
+80,"508 Academy Dr, Austin, TX 78704",1450000.0,2284,3,4,508 Academy Dr, 78704
+81,"14904 Mistletoe Heights Dr, Austin, TX 78717",525000.0,1791,3,3,14904 Mistletoe Heights Dr, 78717
+82,"2408 Braxton Cv, Austin, TX 78741",350000.0,990,1,2,2408 Braxton Cv, 78741
+83,"411 W Saint Elmo Rd APT 9, Austin, TX 78745",550000.0,1713,2,3,411 W Saint Elmo Rd APT 9, 78745
+84,"164 Spyglass Cv, Austin, TX 78737",860000.0,3271,4,4,164 Spyglass Cv, 78737
+85,"5415 Claymoor Dr, Austin, TX 78723",539000.0,1830,2,3,5415 Claymoor Dr, 78723
+87,"11807 Eubank Dr, Austin, TX 78758",599999.0,1678,3,3,11807 Eubank Dr, 78758
+88,"3101 Crowheart Cv, Austin, TX 78746",1749000.0,4050,4,4,3101 Crowheart Cv, 78746
+89,"2521 National Park Blvd, Austin, TX 78747",419000.0,1928,2,3,2521 National Park Blvd, 78747
+90,"15905 Kiawah Island Dr, Austin, TX 78717",1180000.0,3721,4,5,15905 Kiawah Island Dr, 78717
+91,"4225 Iriona Bnd, Austin, TX 78749",475000.0,1782,3,3,4225 Iriona Bnd, 78749
+92,"11508 Citrus Cv, Austin, TX 78750",975000.0,3077,3,4,11508 Citrus Cv, 78750
+94,"5507 Hudson Hol Cv, Austin, TX 78759",886997.0,2488,3,4,5507 Hudson Hol Cv, 78759
+95,"2221 Golden Gate Park, Austin, TX 78732",740000.0,2616,3,4,2221 Golden Gate Park, 78732
+96,"9307 Privet Dr, Austin, TX 78748",525000.0,1692,3,3,9307 Privet Dr, 78748
+97,"9006 Frostwood Trl, Austin, TX 78729",539000.0,2008,3,4,9006 Frostwood Trl, 78729
+98,"15113 Bigelow Dr, Austin, TX 78724",284900.0,1079,2,3,15113 Bigelow Dr, 78724
+99,"11401 Sweet Basil Ct, Austin, TX 78726",725000.0,2246,2,4,11401 Sweet Basil Ct, 78726
+100,"7611 Northcrest Blvd, Austin, TX 78752",525000.0,1408,2,3,7611 Northcrest Blvd, 78752
+101,"5000 Lynnwood St, Austin, TX 78756",1189000.0,2083,2,3,5000 Lynnwood St, 78756
+102,"7808 Callbram Ln, Austin, TX 78736",637000.0,2582,3,4,7808 Callbram Ln, 78736
+103,"6012 Cimarron Ridge Ln, Austin, TX 78738",925000.0,2876,4,4,6012 Cimarron Ridge Ln, 78738
+104,"7425 Jaborandi Dr, Austin, TX 78739",1068000.0,3680,4,5,7425 Jaborandi Dr, 78739
+105,"13561 Anarosa Loop, Austin, TX 78727",380000.0,2304,3,4,13561 Anarosa Loop, 78727
+106,"3908 Sojourner St, Austin, TX 78725",339900.0,1780,2,3,3908 Sojourner St, 78725
+107,"2308 Toulouse Dr, Austin, TX 78748",799000.0,2422,3,4,2308 Toulouse Dr, 78748
+108,"12309 Wycliff Ln, Austin, TX 78727",535000.0,1666,2,3,12309 Wycliff Ln, 78727
+109,"5417 Ketch Ct, Austin, TX 78730",839000.0,2587,3,3,5417 Ketch Ct, 78730
+110,"9912 Pumpkin Ridge Ct, Austin, TX 78717",650000.0,2199,2,4,9912 Pumpkin Ridge Ct, 78717
+111,"2541 Lavendale Ct, Austin, TX 78748",500000.0,2757,3,3,2541 Lavendale Ct, 78748
+112,"10702 Spicewood Pkwy, Austin, TX 78750",1000000.0,2319,3,4,10702 Spicewood Pkwy, 78750
+114,"1311 Quail Park Dr, Austin, TX 78758",619000.0,2143,3,5,1311 Quail Park Dr, 78758
+115,"1914 Piedmont Ave, Austin, TX 78757",1895000.0,2885,4,4,1914 Piedmont Ave, 78757
+116,"1111 Speer Ln, Austin, TX 78745",549900.0,1202,2,3,1111 Speer Ln, 78745
+117,"10617 Sans Souci Pl, Austin, TX 78759",765000.0,2559,3,4,10617 Sans Souci Pl, 78759
+118,"5104 Eagle Trace Trl, Austin, TX 78730",1470000.0,3567,4,5,5104 Eagle Trace Trl, 78730
+119,"6307 Capriola Dr, Austin, TX 78745",524900.0,1392,2,3,6307 Capriola Dr, 78745
+120,"6100 Llano Stage Trl, Austin, TX 78738",799900.0,3269,4,4,6100 Llano Stage Trl, 78738
+121,"5903 Bullard Dr, Austin, TX 78757",700000.0,2214,3,4,5903 Bullard Dr, 78757
+122,"7511 Eastcrest Dr, Austin, TX 78752",750000.0,2068,2,4,7511 Eastcrest Dr, 78752
+123,"7448 Aspen Brook Dr, Austin, TX 78744",400000.0,1992,3,4,7448 Aspen Brook Dr, 78744
+124,"8600 Winterstein Dr, Austin, TX 78745",575000.0,1438,3,3,8600 Winterstein Dr, 78745
+125,"2908 Six Gun Trl, Austin, TX 78748",675000.0,2836,4,3,2908 Six Gun Trl, 78748
+126,"8813 Sikes Way, Austin, TX 78747",460000.0,1823,2,3,8813 Sikes Way, 78747
+127,"10304 Golden Quail Dr, Austin, TX 78758",585000.0,1932,2,4,10304 Golden Quail Dr, 78758
+128,"11507 Shoreview Overlook, Austin, TX 78732",1999000.0,4351,5,5,11507 Shoreview Overlook, 78732
+129,"9808 Lavon Bnd, Austin, TX 78717",1395000.0,5015,6,5,9808 Lavon Bnd, 78717
+130,"2504 Elara Dr, Austin, TX 78725",375000.0,1754,3,4,2504 Elara Dr, 78725
+131,"7806 Jackson Graham Dr, Austin, TX 78724",549900.0,2381,3,4,7806 Jackson Graham Dr, 78724
+132,"1199 San Bernard St, Austin, TX 78702",450000.0,677,1,2,1199 San Bernard St, 78702
+133,"8711 Dandelion Trl, Austin, TX 78745",466000.0,1664,3,4,8711 Dandelion Trl, 78745
+134,"3624 Bratton Heights Dr, Austin, TX 78728",419000.0,1665,2,3,3624 Bratton Heights Dr, 78728
+135,"4321 City Park Rd, Austin, TX 78730",7200000.0,5394,6,5,4321 City Park Rd, 78730
+136,"9009 North Plz UNIT 133, Austin, TX 78753",298500.0,2098,3,3,9009 North Plz UNIT 133, 78753
+137,"6205 Sendero Hills Pkwy, Austin, TX 78724",699900.0,2279,3,3,6205 Sendero Hills Pkwy, 78724
+138,"11214 Hidden Bluff Dr, Austin, TX 78754",609000.0,1800,2,3,11214 Hidden Bluff Dr, 78754
+139,"6107 Mountain Villa Dr, Austin, TX 78731",2100000.0,4000,4,5,6107 Mountain Villa Dr, 78731
+140,"8411 Galeana Trace Cv, Austin, TX 78733",3000000.0,4609,5,5,8411 Galeana Trace Cv, 78733
+141,"9636 Chukar Cir, Austin, TX 78758",600000.0,1489,2,3,9636 Chukar Cir, 78758
+142,"11007 Spear Oak Cv, Austin, TX 78759",899000.0,2428,3,4,11007 Spear Oak Cv, 78759
+143,"14104 Luisium Vw #69, Pflugerville, TX 78660",425000.0,1859,3,3,14104 Luisium Vw #69, 78660
+144,"5512 Joe Sayers Ave, Austin, TX 78756",300000.0,576,1,2,5512 Joe Sayers Ave, 78756
+145,"14406 Varrelman St, Austin, TX 78725",285000.0,1278,1,3,14406 Varrelman St, 78725
+146,"2800 Waymaker Way UNIT 44, Austin, TX 78746",1200000.0,3231,3,4,2800 Waymaker Way UNIT 44, 78746
+147,"9312 Eddystone St, Austin, TX 78729",500000.0,1659,2,3,9312 Eddystone St, 78729
+148,"14020 Skyline Dr, Austin, TX 78732",795000.0,2318,2,3,14020 Skyline Dr, 78732
+149,"6616 Argentia Rd, Austin, TX 78757",1500000.0,2957,3,4,6616 Argentia Rd, 78757
+150,"4212 Mocha Trl, Austin, TX 78728",425000.0,1709,2,3,4212 Mocha Trl, 78728
+151,"4903 Creekline Dr, Austin, TX 78745",649000.0,1916,3,4,4903 Creekline Dr, 78745
+152,"5411 Prock Ln, Austin, TX 78721",850000.0,1992,3,3,5411 Prock Ln, 78721
+153,"10005 Oak Hollow Dr, Austin, TX 78758",585000.0,1890,2,4,10005 Oak Hollow Dr, 78758
+154,"500 Heartwood Dr, Austin, TX 78745",550000.0,1352,2,3,500 Heartwood Dr, 78745
+155,"9421 Edmundsbury Dr, Austin, TX 78747",370000.0,1788,3,3,9421 Edmundsbury Dr, 78747
+156,"3521 Savage Springs Dr, Austin, TX 78754",370000.0,2569,3,5,3521 Savage Springs Dr, 78754
+157,"7203 Bennett Ave, Austin, TX 78752",378000.0,1642,2,4,7203 Bennett Ave, 78752
+158,"16216 Old Baldy Dr, Austin, TX 78717",875000.0,3357,4,4,16216 Old Baldy Dr, 78717
+159,"2800 Waymaker Way UNIT 56, Austin, TX 78746",997000.0,2882,3,4,2800 Waymaker Way UNIT 56, 78746
+160,"5502 Porsche Ln, Austin, TX 78749",540000.0,1352,2,3,5502 Porsche Ln, 78749
+161,"1314 Piedmont Ave, Austin, TX 78757",1495000.0,2491,3,4,1314 Piedmont Ave, 78757
+162,"4500 Hibiscus Valley Dr, Austin, TX 78739",699950.0,2226,2,4,4500 Hibiscus Valley Dr, 78739
+163,"7505 Wynne Ln #3, Austin, TX 78745",699000.0,1600,3,3,7505 Wynne Ln #3, 78745
+164,"7304 Saffron St, Austin, TX 78749",649900.0,1507,2,4,7304 Saffron St, 78749
+165,"2203 Red Fox Rd, Austin, TX 78734",369000.0,1040,2,3,2203 Red Fox Rd, 78734
+166,"16102 Agua Vis, Austin, TX 78734",550000.0,1200,2,3,16102 Agua Vis, 78734
+167,"1810 Pompton Dr, Austin, TX 78757",649000.0,1596,2,4,1810 Pompton Dr, 78757
+168,"16924 Whitebrush Loop, Austin, TX 78717",359000.0,1429,2,3,16924 Whitebrush Loop, 78717
+169,"15203-5603 Purple Sage Dr, Austin, TX 78724",499900.0,1820,2,3,15203-5603 Purple Sage Dr, 78724
+171,"7705 Banpass Ln, Austin, TX 78736",445000.0,1613,3,3,7705 Banpass Ln, 78736
+172,"9824 Ivalenes Hope Dr, Austin, TX 78717",799000.0,2554,4,4,9824 Ivalenes Hope Dr, 78717
+173,"7505 Wynne Ln #4, Austin, TX 78745",499000.0,940,3,2,7505 Wynne Ln #4, 78745
+174,"800 Cedar Gln, Austin, TX 78745",549500.0,1952,2,3,800 Cedar Gln, 78745
+175,"416 Kissing Oak Dr, Austin, TX 78748",550000.0,3079,3,3,416 Kissing Oak Dr, 78748
+176,"405 Primrose St, Austin, TX 78753",326000.0,1482,2,2,405 Primrose St, 78753
+177,"5805 Cary Dr, Austin, TX 78757",1525000.0,2314,3,4,5805 Cary Dr, 78757
+178,"6222 Thurgood Ave, Austin, TX 78721",520000.0,1564,2,4,6222 Thurgood Ave, 78721
+179,"5705 Highland Hills Dr, Austin, TX 78731",1100000.0,1612,2,3,5705 Highland Hills Dr, 78731
+180,"1704 Hartford Rd, Austin, TX 78703",1195000.0,1491,2,3,1704 Hartford Rd, 78703
+181,"5620 Sedona Dr, Austin, TX 78759",1150000.0,3069,4,3,5620 Sedona Dr, 78759
+182,"10107 Erwin Trl #36, Austin, TX 78717",729000.0,2769,4,4,10107 Erwin Trl #36, 78717
+183,"11309 Blackmoor Dr, Austin, TX 78759",739000.0,2116,3,4,11309 Blackmoor Dr, 78759
+184,"8313 Summer Place Dr, Austin, TX 78759",525000.0,1340,2,2,8313 Summer Place Dr, 78759
+185,"7500 Uray Dr, Austin, TX 78724",429900.0,1303,2,3,7500 Uray Dr, 78724
+186,"5808 Chesterfield Ave, Austin, TX 78752",550000.0,1028,1,3,5808 Chesterfield Ave, 78752
+187,"3105 Robinson Ave, Austin, TX 78722",985000.0,2450,3,3,3105 Robinson Ave, 78722
+188,"11540 Arbroath Ln, Austin, TX 78754",490000.0,2710,3,4,11540 Arbroath Ln, 78754
+189,"11501 Ruffed Grouse Dr, Austin, TX 78758",525000.0,1348,2,3,11501 Ruffed Grouse Dr, 78758
+191,"2001 Faro Dr APT 28, Austin, TX 78741",499500.0,1604,3,3,2001 Faro Dr APT 28, 78741
+192,"2206 La Casa Dr, Austin, TX 78704",899000.0,885,1,2,2206 La Casa Dr, 78704
+193,"10410 Quail Ridge Dr, Austin, TX 78758",525000.0,1330,2,3,10410 Quail Ridge Dr, 78758
+194,"9804 Big View Dr, Austin, TX 78730",1375000.0,3610,4,4,9804 Big View Dr, 78730
+195,"5303 Mulberry Grove Ln, Austin, TX 78723",619900.0,1938,3,3,5303 Mulberry Grove Ln, 78723
+196,"909 Lipan Trl, Austin, TX 78733",849000.0,1896,2,3,909 Lipan Trl, 78733
+197,"6905 Crestone Rd, Austin, TX 78744",360000.0,1220,2,3,6905 Crestone Rd, 78744
+198,"1005 Alegria Rd, Austin, TX 78757",725000.0,1621,2,4,1005 Alegria Rd, 78757
+199,"1110 Byers Ln, Austin, TX 78753",360000.0,1346,1,3,1110 Byers Ln, 78753
+200,"558 Call Dr, Austin, TX 78737",1695990.0,4301,5,5,558 Call Dr, 78737
+201,"14516 Ballycastle Trl, Austin, TX 78717",445000.0,1583,3,3,14516 Ballycastle Trl, 78717
+202,"12308 Palisades Pkwy, Austin, TX 78732",950000.0,3426,4,5,12308 Palisades Pkwy, 78732
+203,"6808 Cornish Hen Ln, Austin, TX 78747",349000.0,1665,3,3,6808 Cornish Hen Ln, 78747
+204,"1901 Casa Grande Dr, Austin, TX 78733",639000.0,1470,2,3,1901 Casa Grande Dr, 78733
+205,"2301 Rundell Pl, Austin, TX 78704",2250000.0,2302,4,3,2301 Rundell Pl, 78704
+206,"7862 Lakewood Dr, Austin, TX 78750",1245000.0,2566,2,4,7862 Lakewood Dr, 78750
+207,"1100 Clayton Ln, Austin, TX 78723",475000.0,1116,2,3,1100 Clayton Ln, 78723
+208,"4307 Island Ave, Austin, TX 78731",6995000.0,5262,7,5,4307 Island Ave, 78731
+209,"6415 Yaupon Dr, Austin, TX 78759",850000.0,2847,3,4,6415 Yaupon Dr, 78759
+210,"2715 Mountain Laurel Ln, Austin, TX 78703",1600000.0,2282,2,3,2715 Mountain Laurel Ln, 78703
+211,"4900 Amarra Dr, Austin, TX 78735",5999000.0,6013,6,4,4900 Amarra Dr, 78735
+212,"7800 Parliament Pl, Austin, TX 78759",525000.0,1544,2,3,7800 Parliament Pl, 78759
+213,"2010 Cervin Blvd, Austin, TX 78728",430000.0,1907,2,3,2010 Cervin Blvd, 78728
+214,"9001 Deer Shadow Pass, Austin, TX 78733",2453750.0,3759,4,4,9001 Deer Shadow Pass, 78733
+215,"11529 Autumn Ash Dr, Manchaca, TX 78652",420000.0,1714,3,4,11529 Autumn Ash Dr, 78652
+216,"5505 Gloucester Ln, Austin, TX 78723",775000.0,1625,2,3,5505 Gloucester Ln, 78723
+218,"901 Wayside Dr, Austin, TX 78703",3995000.0,3642,4,6,901 Wayside Dr, 78703
+219,"5302 Middale Ln, Austin, TX 78723",525000.0,1051,1,3,5302 Middale Ln, 78723
+220,"2005 Uphill Ln #B, Austin, TX 78741",615000.0,1774,4,3,2005 Uphill Ln #B, 78741
+221,"404 Mirafield Ln, Austin, TX 78737",1249000.0,3795,6,5,404 Mirafield Ln, 78737
+222,"2325 Bitter Creek Dr, Austin, TX 78744",345000.0,1000,2,3,2325 Bitter Creek Dr, 78744
+223,"5800 Mojave Dr, Austin, TX 78745",599000.0,1589,2,3,5800 Mojave Dr, 78745
+224,"609 Horseback Holw, Austin, TX 78732",1300000.0,4410,4,4,609 Horseback Holw, 78732
+225,"109 Autumn Wood Ln, Austin, TX 78737",549000.0,1885,2,3,109 Autumn Wood Ln, 78737
+226,"3407 Northwood Cir, Austin, TX 78703",8270000.0,4659,4,4,3407 Northwood Cir, 78703
+227,"211 Costa Bella Dr, Austin, TX 78734",7950000.0,9261,8,6,211 Costa Bella Dr, 78734
+228,"14222 Handel Dr UNIT 7A, Pflugerville, TX 78660",319000.0,1443,2,2,14222 Handel Dr UNIT 7A, 78660
+229,"1634 Cattle Trl, Austin, TX 78748",579000.0,1345,2,3,1634 Cattle Trl, 78748
+230,"601 Sandringham Cir, Austin, TX 78704",1800000.0,1745,2,3,601 Sandringham Cir, 78704
+231,"506 Treys Way, Austin, TX 78745",416000.0,902,2,3,506 Treys Way, 78745
+232,"8204 Endeavor Cir, Austin, TX 78726",1150000.0,3782,4,5,8204 Endeavor Cir, 78726
+233,"4706 Red Stone Ct, Austin, TX 78735",825000.0,2180,2,3,4706 Red Stone Ct, 78735
+234,"613 Twelve Oaks Ln, Austin, TX 78704",849000.0,1971,3,3,613 Twelve Oaks Ln, 78704
+235,"2502 Berwyn Cir, Austin, TX 78745",476000.0,1486,2,3,2502 Berwyn Cir, 78745
+236,"2012 Oxford Ave, Austin, TX 78704",2450000.0,2524,3,4,2012 Oxford Ave, 78704
+237,"4007 Independent Way, Austin, TX 78731",2933760.0,4122,5,5,4007 Independent Way, 78731
+238,"15703 De Peer Ave, Austin, TX 78717",450000.0,1833,3,4,15703 De Peer Ave, 78717
+239,"2006 Covered Wagon Pass, Austin, TX 78744",424900.0,1200,2,3,2006 Covered Wagon Pass, 78744
+240,"1408 S Meadows Dr, Austin, TX 78758",599900.0,3022,4,5,1408 S Meadows Dr, 78758
+241,"5804 J F K Dr, Austin, TX 78724",300000.0,1225,2,2,5804 J F K Dr, 78724
+242,"6910 Rufus Dr, Austin, TX 78752",649000.0,1654,2,4,6910 Rufus Dr, 78752
+243,"2003 Sharon Ln, Austin, TX 78703",8000000.0,5520,7,6,2003 Sharon Ln, 78703
+244,"6717 Oasis Pass, Austin, TX 78732",6500000.0,6843,7,4,6717 Oasis Pass, 78732
+245,"3901 Licorice Ln, Austin, TX 78728",475000.0,1837,2,3,3901 Licorice Ln, 78728
+246,"1711 Mohle Dr, Austin, TX 78703",2499000.0,3153,5,5,1711 Mohle Dr, 78703
+247,"9301 Elm Grove Cir, Austin, TX 78736",789000.0,2110,2,4,9301 Elm Grove Cir, 78736
+248,"6105 Bullard Dr APT A, Austin, TX 78757",495000.0,1680,3,3,6105 Bullard Dr APT A, 78757
+249,"7209 Magenta Ln, Austin, TX 78739",1450000.0,4075,5,5,7209 Magenta Ln, 78739
+250,"8608 Tallwood Dr, Austin, TX 78759",1200000.0,1956,3,4,8608 Tallwood Dr, 78759
+251,"15205 Wallaby Way, Austin, TX 78728",470504.0,1494,2,3,15205 Wallaby Way, 78728
+252,"10613 La Plata Cv, Austin, TX 78737",1199988.0,2971,4,5,10613 La Plata Cv, 78737
+253,"8106 Colony Loop Dr, Austin, TX 78724",399000.0,1295,2,4,8106 Colony Loop Dr, 78724
+254,"2208 E 18th St #B, Austin, TX 78702",489000.0,668,1,2,2208 E 18th St #B, 78702
+255,"5010 Lake View Dr, Austin, TX 78732",1995000.0,1204,2,2,5010 Lake View Dr, 78732
+256,"7300 Coit Rd, Austin, TX 78744",549500.0,1925,2,4,7300 Coit Rd, 78744
+257,"4004 Avenue B, Austin, TX 78751",650000.0,984,1,2,4004 Avenue B, 78751
+258,"15207 Kookaburra Path #104, Austin, TX 78728",555500.0,2508,3,4,15207 Kookaburra Path #104, 78728
+259,"8113 Raintree Pl, Austin, TX 78759",699000.0,1889,2,3,8113 Raintree Pl, 78759
+260,"1101 Arcadia Ave, Austin, TX 78757",619000.0,1305,2,3,1101 Arcadia Ave, 78757
+261,"5752 N Scout Island Cir, Austin, TX 78731",545000.0,1592,2,3,5752 N Scout Island Cir, 78731
+262,"2201 Zach Scott St, Austin, TX 78723",739500.0,1812,3,2,2201 Zach Scott St, 78723
+264,"Pierce Plan, Sunfield",306990.0,1643,3,3,Pierce Plan,"Pierce Plan, Sunfield"
+265,"502 E Live Oak St, Austin, TX 78704",2475000.0,3412,4,4,502 E Live Oak St, 78704
+266,"11522 Shakespearean Way, Austin, TX 78759",850000.0,2155,3,4,11522 Shakespearean Way, 78759
+267,"2008 Kinney Ave, Austin, TX 78704",3295000.0,3025,3,4,2008 Kinney Ave, 78704
+268,"506 W 51st St #B, Austin, TX 78751",479000.0,993,1,2,506 W 51st St #B, 78751
+269,"1704 Timberwood Dr, Austin, TX 78741",395000.0,1491,3,3,1704 Timberwood Dr, 78741
+270,"3707 Counselor Dr, Austin, TX 78749",450000.0,1454,3,3,3707 Counselor Dr, 78749
+271,"14208 Vandever St, Austin, TX 78725",319000.0,1347,2,3,14208 Vandever St, 78725
+272,"1706 Palo Duro Rd, Austin, TX 78757",530000.0,1176,2,3,1706 Palo Duro Rd, 78757
+274,"612 Natali St, Austin, TX 78748",416000.0,1214,3,3,612 Natali St, 78748
+275,"5607 Overbrook Dr, Austin, TX 78723",350000.0,1032,1,2,5607 Overbrook Dr, 78723
+276,"2620 Choctaw Trl, Austin, TX 78745",575000.0,2245,2,4,2620 Choctaw Trl, 78745
+277,"2107 Garden St, Austin, TX 78702",1950000.0,2119,4,3,2107 Garden St, 78702
+278,"10727 Cassia Dr, Austin, TX 78759",1399900.0,3332,4,4,10727 Cassia Dr, 78759
+279,"7913 W Rim Dr, Austin, TX 78731",2300000.0,3974,6,5,7913 W Rim Dr, 78731
+280,"3636 Turkey Creek Dr, Austin, TX 78730",1499999.0,4863,5,4,3636 Turkey Creek Dr, 78730
+281,"12811 River Bnd, Austin, TX 78732",5500000.0,6000,8,6,12811 River Bnd, 78732
+282,"208 Bella Riva Dr, Austin, TX 78734",3550000.0,10306,9,7,208 Bella Riva Dr, 78734
+284,"7849 Escala Dr, Austin, TX 78735",9999000.0,8549,7,5,7849 Escala Dr, 78735
+285,"5702 Cherry Cv, Austin, TX 78745",585000.0,1509,3,3,5702 Cherry Cv, 78745
+287,"610 Harthan St, Austin, TX 78703",5995000.0,3681,4,4,610 Harthan St, 78703
+288,"6501 Danwood Dr, Austin, TX 78759",639000.0,1748,2,3,6501 Danwood Dr, 78759
+289,"120 Frederick St, Austin, TX 78704",599000.0,1014,2,2,120 Frederick St, 78704
+290,"3709 Indian Point Dr, Austin, TX 78739",695000.0,2458,2,4,3709 Indian Point Dr, 78739
+291,"1702 Cherry Orchard Dr, Austin, TX 78745",375000.0,910,1,3,1702 Cherry Orchard Dr, 78745
+292,"208 W 45th St, Austin, TX 78751",599900.0,1032,2,2,208 W 45th St, 78751
+293,"13141 Coriander Dr, Austin, TX 78729",1000000.0,3535,4,4,13141 Coriander Dr, 78729
+294,"4310 Stromquist St, Austin, TX 78723",925000.0,1964,3,3,4310 Stromquist St, 78723
+295,"4902 Savorey Ln, Austin, TX 78744",350000.0,1488,2,4,4902 Savorey Ln, 78744
+296,"10517 Big Thicket Dr, Austin, TX 78747",560000.0,2601,3,5,10517 Big Thicket Dr, 78747
+297,"1807 Rockmoor Ave, Austin, TX 78703",1750000.0,2333,2,3,1807 Rockmoor Ave, 78703
+298,"3505 Breckenridge Dr, Austin, TX 78744",375000.0,1220,2,3,3505 Breckenridge Dr, 78744
+299,"8509 Honeysuckle Trl, Austin, TX 78759",1200000.0,2097,3,4,8509 Honeysuckle Trl, 78759
+300,"910 W Elizabeth St, Austin, TX 78704",3395000.0,3051,5,4,910 W Elizabeth St, 78704
+301,"1101 Silverton Ct, Austin, TX 78753",375000.0,1328,3,3,1101 Silverton Ct, 78753
+302,"2803 Townes Ln, Austin, TX 78703",3950000.0,4408,4,4,2803 Townes Ln, 78703
+303,"6001 Hood Holw, Austin, TX 78731",1999000.0,5427,6,5,6001 Hood Holw, 78731
+304,"5202 Kite Tail Dr, Austin, TX 78730",899000.0,3011,3,4,5202 Kite Tail Dr, 78730
+305,"150 Maeves Way, Austin, TX 78737",624000.0,2328,2,4,150 Maeves Way, 78737
+306,"8536 Red Willow Dr, Austin, TX 78736",465000.0,1580,3,3,8536 Red Willow Dr, 78736
+307,"1142 Garland Ave, Austin, TX 78721",350000.0,960,1,3,1142 Garland Ave, 78721
+308,"14624 Flat Top Ranch Rd, Austin, TX 78732",7200000.0,7740,8,6,14624 Flat Top Ranch Rd, 78732
+309,"3300 Bratton Ridge Xing, Austin, TX 78728",444000.0,2003,3,4,3300 Bratton Ridge Xing, 78728
+310,"12819 Magnolia Mound Trl, Austin, TX 78727",339000.0,1034,2,2,12819 Magnolia Mound Trl, 78727
+311,"1201 Verdant Way, Austin, TX 78746",3750000.0,4390,4,5,1201 Verdant Way, 78746
+312,"3308 Ferguson Ln, Austin, TX 78754",550000.0,2263,2,4,3308 Ferguson Ln, 78754
+313,"1401 Holly St #2, Austin, TX 78702",899000.0,1100,3,2,1401 Holly St #2, 78702
+314,"6413 Magenta Ln, Austin, TX 78739",1099000.0,3873,4,5,6413 Magenta Ln, 78739
+315,"5200 Keene Cv, Austin, TX 78730",725000.0,2121,2,4,5200 Keene Cv, 78730
+316,"404 W Croslin St, Austin, TX 78752",400000.0,1525,2,4,404 W Croslin St, 78752
+317,"13613 Oystercatcher Dr, Austin, TX 78729",465000.0,1916,3,4,13613 Oystercatcher Dr, 78729
+318,"7104 Poulain Dr, Austin, TX 78738",599900.0,2281,3,3,7104 Poulain Dr, 78738
+319,"9904 Richelieu Rd, Austin, TX 78750",775000.0,2130,2,4,9904 Richelieu Rd, 78750
+320,"10940 Colonel Winn Loop, Austin, TX 78748",435940.0,1922,2,4,10940 Colonel Winn Loop, 78748
+321,"4800 Mirador Dr, Austin, TX 78735",5950000.0,7800,9,8,4800 Mirador Dr, 78735
+322,"116 Navigator Dr, Austin, TX 78717",567500.0,1996,2,3,116 Navigator Dr, 78717
+323,"3100 Crowheart Cv, Austin, TX 78746",1850000.0,3927,4,4,3100 Crowheart Cv, 78746
+324,"7503 Harmony Shoals Bnd, Austin, TX 78744",399990.0,1495,3,2,7503 Harmony Shoals Bnd, 78744
+325,"6201 Tara Dr, Austin, TX 78744",375000.0,1633,2,3,6201 Tara Dr, 78744
+326,"10902 Twisted Elm Dr, Austin, TX 78726",895000.0,3155,4,4,10902 Twisted Elm Dr, 78726
+327,"4604 Peach Grove Rd, Austin, TX 78744",425000.0,2308,3,3,4604 Peach Grove Rd, 78744
+328,"8004 Two Coves Dr, Austin, TX 78730",5950000.0,5597,6,8,8004 Two Coves Dr, 78730
+329,"4704 Crest Oak Rd, Austin, TX 78744",320000.0,1050,1,3,4704 Crest Oak Rd, 78744
+330,"4802 Turnstone Dr, Austin, TX 78744",325000.0,1045,1,2,4802 Turnstone Dr, 78744
+331,"3145 Burks Ln, Austin, TX 78732",634999.0,2361,3,4,3145 Burks Ln, 78732
+332,"1001 E Applegate Dr, Austin, TX 78753",449999.0,1856,2,3,1001 E Applegate Dr, 78753
+333,"4407 Ganymede Dr, Austin, TX 78727",599000.0,2094,2,4,4407 Ganymede Dr, 78727
+334,"5903 Lost Horizon Dr, Austin, TX 78759",850000.0,2677,3,3,5903 Lost Horizon Dr, 78759
+335,"7805 Lowdes Dr, Austin, TX 78745",674900.0,1754,2,3,7805 Lowdes Dr, 78745
+336,"9207 Brents Elm Dr, Austin, TX 78744",425000.0,1574,2,3,9207 Brents Elm Dr, 78744
+337,"17716 Flowing Brook Dr, Austin, TX 78738",749000.0,2324,3,3,17716 Flowing Brook Dr, 78738
+338,"9612 Tavares Cv, Austin, TX 78733",3995000.0,7700,7,6,9612 Tavares Cv, 78733
+339,"4706 Carsonhill Dr, Austin, TX 78723",509000.0,1620,2,4,4706 Carsonhill Dr, 78723
+340,"4904 Summerset Trl, Austin, TX 78749",650000.0,1845,2,4,4904 Summerset Trl, 78749
+341,"11012 Short Springs Dr, Austin, TX 78754",359000.0,1378,2,3,11012 Short Springs Dr, 78754
+343,"4505 Nixon Ln, Austin, TX 78725",500000.0,1608,2,3,4505 Nixon Ln, 78725
+344,"5510 Chadwyck Dr, Austin, TX 78723",690000.0,2183,3,4,5510 Chadwyck Dr, 78723
+345,"6902 Lost Valley, Austin, TX 78745",725000.0,2290,3,5,6902 Lost Valley, 78745
+346,"7201 Beckett Rd, Austin, TX 78749",579850.0,1633,2,3,7201 Beckett Rd, 78749
+347,"4709 Frontier Trl, Austin, TX 78745",670000.0,1933,2,4,4709 Frontier Trl, 78745
+348,"5210 Langwood Dr, Austin, TX 78754",295000.0,1364,2,2,5210 Langwood Dr, 78754
+349,"8508 Bargamin Dr, Austin, TX 78736",585000.0,2231,3,4,8508 Bargamin Dr, 78736
+350,"12233 Forsythe Dr, Austin, TX 78759",449000.0,1452,2,3,12233 Forsythe Dr, 78759
+351,"13301 Mansfield Dr, Austin, TX 78732",1260000.0,3706,4,5,13301 Mansfield Dr, 78732
+352,"2409 Montague St, Austin, TX 78741",570000.0,1850,3,3,2409 Montague St, 78741
+353,"2000 Tillotson Ave, Austin, TX 78702",765000.0,916,1,3,2000 Tillotson Ave, 78702
+354,"5702 Link Ave, Austin, TX 78752",555000.0,1625,2,3,5702 Link Ave, 78752
+355,"1901 Exposition Blvd, Austin, TX 78703",5250000.0,5051,6,5,1901 Exposition Blvd, 78703
+356,"5657 Pinon Vista Dr, Austin, TX 78724",349000.0,1269,2,3,5657 Pinon Vista Dr, 78724
+357,"9116 Robinson Family Rd, Austin, TX 78738",3850000.0,4895,5,4,9116 Robinson Family Rd, 78738
+358,"1604 J J Seabrook Dr, Austin, TX 78721",599999.0,1105,2,2,1604 J J Seabrook Dr, 78721
+359,"2102 E 21st St #1, Austin, TX 78722",1499000.0,2540,5,4,2102 E 21st St #1, 78722
+360,"10113 Copper Ridge Cv, Austin, TX 78747",459000.0,2209,3,4,10113 Copper Ridge Cv, 78747
+361,"4511 Island Cv, Austin, TX 78731",7475000.0,7755,6,5,4511 Island Cv, 78731
+362,"8310 Arboles Cir, Austin, TX 78737",1375000.0,3260,3,3,8310 Arboles Cir, 78737
+363,"5808 Brocade Dr, Austin, TX 78724",398886.0,1845,2,4,5808 Brocade Dr, 78724
+364,"5419 Darlington Ln, Austin, TX 78723",485000.0,1363,2,4,5419 Darlington Ln, 78723
+365,"815 Wild Rose Dr, Austin, TX 78737",650000.0,2603,3,3,815 Wild Rose Dr, 78737
+366,"1400 Anhalt Dr UNIT 45A, Pflugerville, TX 78660",335000.0,1496,3,2,1400 Anhalt Dr UNIT 45A, 78660
+367,"904 Christopher St, Austin, TX 78704",2350000.0,2987,4,4,904 Christopher St, 78704
+369,"12904 Titanium St, Manor, TX 78653",355000.0,1663,2,3,12904 Titanium St, 78653
+370,"2517 Rockridge Dr, Austin, TX 78744",389999.0,1296,2,3,2517 Rockridge Dr, 78744
+371,"4611 Craigwood Dr, Austin, TX 78725",370000.0,1129,2,3,4611 Craigwood Dr, 78725
+373,"1816 Carlson Dr #42C, Austin, TX 78741",485000.0,1437,3,3,1816 Carlson Dr #42C, 78741
+374,"7317 Brecourt Manor Way, Austin, TX 78739",799900.0,2593,3,4,7317 Brecourt Manor Way, 78739
+375,"7224 Cardinal Bloom Loop, Austin, TX 78744",495000.0,1572,3,3,7224 Cardinal Bloom Loop, 78744
+376,"9216 Meadow Vale, Austin, TX 78758",524900.0,1339,2,3,9216 Meadow Vale, 78758
+377,"2106 Brunswick Dr, Austin, TX 78723",464900.0,1340,2,3,2106 Brunswick Dr, 78723
+378,"13303 Mansfield Dr, Austin, TX 78732",2395000.0,5371,5,5,13303 Mansfield Dr, 78732
+379,"12900 Covington Trl, Austin, TX 78727",486000.0,1375,2,3,12900 Covington Trl, 78727
+380,"8616 Cobblestone, Austin, TX 78735",840000.0,2240,2,3,8616 Cobblestone, 78735
+381,"1445 Sir Thopas Trl, Austin, TX 78748",385900.0,1271,2,3,1445 Sir Thopas Trl, 78748
+382,"4904 Eastdale Dr, Austin, TX 78723",545000.0,1628,2,3,4904 Eastdale Dr, 78723
+383,"1702 Barton Hills Dr, Austin, TX 78704",1100000.0,1421,2,3,1702 Barton Hills Dr, 78704
+384,"3102 Tom Green St, Austin, TX 78705",969500.0,2126,3,5,3102 Tom Green St, 78705
+385,"3112 Corbin Ln, Austin, TX 78704",745000.0,1714,3,3,3112 Corbin Ln, 78704
+386,"8000 Forbsdale Dr, Austin, TX 78747",385000.0,2049,3,4,8000 Forbsdale Dr, 78747
+387,"15101 Dexler Dr, Austin, TX 78734",699900.0,1250,2,1,15101 Dexler Dr, 78734
+388,"1301 Town Creek Dr UNIT 3, Austin, TX 78741",950000.0,2528,4,3,1301 Town Creek Dr UNIT 3, 78741
+390,"13103 Humphrey Dr, Austin, TX 78729",546000.0,1748,2,3,13103 Humphrey Dr, 78729
+391,"5935 Cherry Loop, Austin, TX 78745",650000.0,1436,2,3,5935 Cherry Loop, 78745
+392,"5515 Hibiscus Dr, Austin, TX 78724",346000.0,942,2,2,5515 Hibiscus Dr, 78724
+393,"700 Great Britain Blvd, Austin, TX 78748",342500.0,880,1,2,700 Great Britain Blvd, 78748
+394,"15201 Thatcher Dr, Austin, TX 78717",698000.0,2895,3,4,15201 Thatcher Dr, 78717
+395,"1400 Lorraine Loop #1400, Austin, TX 78758",499000.0,1863,3,3,1400 Lorraine Loop #1400, 78758
+396,"8400 Alta Verde Dr, Austin, TX 78759",544900.0,1916,3,3,8400 Alta Verde Dr, 78759
+397,"1433 Bradbury Ln, Austin, TX 78753",540000.0,2687,3,3,1433 Bradbury Ln, 78753
+398,"12012 Ladrido Ln, Austin, TX 78727",575000.0,2135,2,4,12012 Ladrido Ln, 78727
+399,"1314 Westover Rd, Austin, TX 78703",5999999.0,4400,5,5,1314 Westover Rd, 78703
+400,"7008 Halesboro Dr, Austin, TX 78736",795000.0,2541,3,4,7008 Halesboro Dr, 78736
+401,"9105 Tweed Berwick Dr, Austin, TX 78750",890000.0,2669,3,4,9105 Tweed Berwick Dr, 78750
+403,"5506 Buffalo Pass #B, Austin, TX 78745",460000.0,1290,2,3,5506 Buffalo Pass #B, 78745
+404,"14712 Bescott Dr, Austin, TX 78728",550000.0,2455,2,4,14712 Bescott Dr, 78728
+405,"1705 Palo Duro Rd, Austin, TX 78757",525000.0,1599,2,3,1705 Palo Duro Rd, 78757
+406,"8907 Little Walnut Pkwy, Austin, TX 78758",465000.0,1564,2,3,8907 Little Walnut Pkwy, 78758
+407,"4414 Merle Dr UNIT 1, Austin, TX 78745",699900.0,1390,3,3,4414 Merle Dr UNIT 1, 78745
+408,"5704 Tahoma Pl, Austin, TX 78759",775000.0,2389,2,4,5704 Tahoma Pl, 78759
+409,"8600 Wood Stork Dr, Austin, TX 78729",515000.0,2416,3,4,8600 Wood Stork Dr, 78729
+410,"9004 Palmito Dr, Austin, TX 78717",659900.0,2514,4,4,9004 Palmito Dr, 78717
+411,"5321 Downs Dr, Austin, TX 78721",488000.0,1360,2,3,5321 Downs Dr, 78721
+412,"1304 Cardinal Hill Cir, Austin, TX 78758",599900.0,2950,4,4,1304 Cardinal Hill Cir, 78758
+413,"1903 Big Horn Dr, Austin, TX 78734",5350000.0,5413,6,6,1903 Big Horn Dr, 78734
+414,"7016 Ranchito Dr, Austin, TX 78744",390000.0,1472,2,3,7016 Ranchito Dr, 78744
+415,"5401 Baythorne Dr, Austin, TX 78747",450000.0,1840,3,3,5401 Baythorne Dr, 78747
+416,"11429 Glen Falloch Ct, Austin, TX 78754",595000.0,3938,4,6,11429 Glen Falloch Ct, 78754
+417,"300 Arroyo Vista Dr, Manchaca, TX 78652",869000.0,2117,3,4,300 Arroyo Vista Dr, 78652
+418,"6901 Barstow Ct, Austin, TX 78749",850000.0,2824,4,4,6901 Barstow Ct, 78749
+419,"7211 Summer Tanager Dr, Austin, TX 78744",474676.0,2586,3,5,7211 Summer Tanager Dr, 78744
+420,"2112 Ravenscroft Dr, Austin, TX 78748",449500.0,1646,2,3,2112 Ravenscroft Dr, 78748
+421,"2905 Rogge Ln, Austin, TX 78723",304900.0,816,1,2,2905 Rogge Ln, 78723
+422,"6803 Danwood Dr, Austin, TX 78759",599999.0,1934,3,3,6803 Danwood Dr, 78759
+423,"1901 Hether St, Austin, TX 78704",3195000.0,3209,5,4,1901 Hether St, 78704
+424,"8312 Stillwood Ln, Austin, TX 78757",624500.0,1753,3,4,8312 Stillwood Ln, 78757
+426,"7609 Summervale Dr, Austin, TX 78737",995000.0,2481,3,3,7609 Summervale Dr, 78737
+427,"9200 Ashton Rdg, Austin, TX 78750",693000.0,2538,3,4,9200 Ashton Rdg, 78750
+428,"12216 Alcanza Dr, Austin, TX 78739",1275000.0,3250,3,4,12216 Alcanza Dr, 78739
+429,"8021 Scotland Yard, Austin, TX 78759",565000.0,1397,2,3,8021 Scotland Yard, 78759
+430,"2149 Barton Hills Dr, Austin, TX 78704",1135000.0,1697,2,4,2149 Barton Hills Dr, 78704
+431,"3101 Mohawk Rd, Austin, TX 78757",693000.0,2206,2,3,3101 Mohawk Rd, 78757
+432,"18409 Deleon Bayou Ln, Austin, TX 78738",580000.0,1945,2,3,18409 Deleon Bayou Ln, 78738
+433,"4414 Avenue D, Austin, TX 78751",725000.0,1238,2,3,4414 Avenue D, 78751
+434,"2206 Indian Trl, Austin, TX 78703",1550000.0,1728,2,2,2206 Indian Trl, 78703
+435,"6102 Thames Dr, Austin, TX 78723",799990.0,2518,3,3,6102 Thames Dr, 78723
+436,"4502 Bennett Ave, Austin, TX 78751",900000.0,1700,2,3,4502 Bennett Ave, 78751
+437,"5800 Copse Ct #103, Austin, TX 78744",415000.0,1931,3,4,5800 Copse Ct #103, 78744
+438,"4616 Sidereal Dr, Austin, TX 78727",479000.0,1573,2,3,4616 Sidereal Dr, 78727
+439,"7905 Mesa Trails Cir, Austin, TX 78731",797700.0,2614,3,3,7905 Mesa Trails Cir, 78731
+440,"4529 Avenue C, Austin, TX 78751",1075000.0,1516,2,3,4529 Avenue C, 78751
+441,"3019 Val Dr, Austin, TX 78723",629000.0,1922,2,3,3019 Val Dr, 78723
+442,"2529 McDonald Way, Austin, TX 78754",393000.0,1346,2,3,2529 McDonald Way, 78754
+443,"5812 Loblolly Ln #93, Austin, TX 78744",339500.0,1062,2,2,5812 Loblolly Ln #93, 78744
+444,"441 Santaluz Ln, Austin, TX 78732",1950000.0,4432,5,4,441 Santaluz Ln, 78732
+445,"14412 Cochise Trl, Austin, TX 78734",899900.0,2155,3,4,14412 Cochise Trl, 78734
+446,"1312 Delano St, Austin, TX 78721",495000.0,1660,2,3,1312 Delano St, 78721
+447,"1601 Lightsey Rd #1, Austin, TX 78704",1599000.0,2496,3,4,1601 Lightsey Rd #1, 78704
+448,"5712 Baythorne Dr, Austin, TX 78747",435000.0,1474,3,3,5712 Baythorne Dr, 78747
+449,"96 San Marcos St, Austin, TX 78702",499460.0,611,1,1,96 San Marcos St, 78702
+450,"3115 Ski Shores Ter, Austin, TX 78730",5100000.0,2414,2,3,3115 Ski Shores Ter, 78730
+451,"15516 Prestancia Dr, Austin, TX 78717",895000.0,3404,3,4,15516 Prestancia Dr, 78717
+452,"1307 Neans Dr, Austin, TX 78758",529000.0,1693,2,3,1307 Neans Dr, 78758
+453,"2301 Golden Gate Park, Austin, TX 78732",719000.0,2833,3,4,2301 Golden Gate Park, 78732
+454,"5204 Pony Chase, Austin, TX 78727",1450000.0,3770,3,4,5204 Pony Chase, 78727
+455,"6709 Midwood Pkwy, Austin, TX 78736",975000.0,2880,3,4,6709 Midwood Pkwy, 78736
+456,"3705 Caney Creek Rd, Austin, TX 78732",769000.0,3551,4,5,3705 Caney Creek Rd, 78732
+457,"8701 Old Corral Cv, Austin, TX 78737",899900.0,3272,4,4,8701 Old Corral Cv, 78737
+458,"3309 Oxsheer Dr, Austin, TX 78732",925000.0,3165,3,5,3309 Oxsheer Dr, 78732
+459,"2210 Hartford Rd, Austin, TX 78703",1750000.0,2051,2,3,2210 Hartford Rd, 78703
+460,"6308 Dorchester Dr, Austin, TX 78723",790000.0,1872,3,4,6308 Dorchester Dr, 78723
+461,"424 Racetrack Dr, Austin, TX 78748",574900.0,1947,2,3,424 Racetrack Dr, 78748
+462,"1111 Village Green Dr, Austin, TX 78753",375000.0,1102,2,3,1111 Village Green Dr, 78753
+463,"290 Lexington Dr, Austin, TX 78737",600000.0,2174,2,3,290 Lexington Dr, 78737
+465,"819 Kemp Hills Dr, Austin, TX 78737",750000.0,2146,3,4,819 Kemp Hills Dr, 78737
+466,"11800 Gate Way, Austin, TX 78727",695000.0,1972,2,3,11800 Gate Way, 78727
+467,"5703 Glenhollow Path, Austin, TX 78745",399900.0,1103,1,4,5703 Glenhollow Path, 78745
+468,"8124 City Top Blvd, Austin, TX 78724",490000.0,2313,3,4,8124 City Top Blvd, 78724
+469,"5611 Magee Bnd, Austin, TX 78749",675000.0,2775,3,4,5611 Magee Bnd, 78749
+470,"11502 JOHNNY WEISMULLER LN, Austin, TX 78748",450000.0,1707,3,3,11502 JOHNNY WEISMULLER LN, 78748
+471,"6631 Dogwood Creek Dr, Austin, TX 78746",1875000.0,3615,4,4,6631 Dogwood Creek Dr, 78746
+472,"1305 Meriden Ln, Austin, TX 78703",4500000.0,5385,5,5,1305 Meriden Ln, 78703
+473,"7907 Northforest Dr, Austin, TX 78759",592000.0,1481,2,3,7907 Northforest Dr, 78759
+474,"5961 Salcon Cliff Dr, Austin, TX 78749",599900.0,1892,2,3,5961 Salcon Cliff Dr, 78749
+475,"4307 Churchill Downs Dr, Austin, TX 78746",7250000.0,5719,7,5,4307 Churchill Downs Dr, 78746
+476,"5102 Beverly Skyline, Austin, TX 78731",3950000.0,5084,7,5,5102 Beverly Skyline, 78731
+477,"1301 Cedar Stand Pass, Austin, TX 78748",475000.0,1895,3,3,1301 Cedar Stand Pass, 78748
+478,"10912 Sierra Oaks, Austin, TX 78759",825000.0,2295,3,4,10912 Sierra Oaks, 78759
+479,"1501 Damon Rd #1, Austin, TX 78745",775000.0,2248,3,4,1501 Damon Rd #1, 78745
+480,"2508 E 4th St #A, Austin, TX 78702",674000.0,865,3,2,2508 E 4th St #A, 78702
+481,"812 W Mary St, Austin, TX 78704",2750000.0,2606,3,3,812 W Mary St, 78704
+482,"6312 Avery Island Ave, Austin, TX 78727",380000.0,1020,2,2,6312 Avery Island Ave, 78727
+483,"3141 Wavecrest Blvd, Austin, TX 78728",460000.0,1962,2,4,3141 Wavecrest Blvd, 78728
+484,"5203 Periwinkle Path, Austin, TX 78745",659000.0,1583,2,3,5203 Periwinkle Path, 78745
+485,"11104 Amesite Trl, Austin, TX 78726",825000.0,2998,3,4,11104 Amesite Trl, 78726
+486,"6809 Mesa Dr, Austin, TX 78731",1249888.0,2899,3,3,6809 Mesa Dr, 78731
+487,"8212 Spire Vw, Austin, TX 78744",769000.0,2504,3,4,8212 Spire Vw, 78744
+488,"5905 Zachary Scott St, Austin, TX 78747",379000.0,1398,2,3,5905 Zachary Scott St, 78747
+489,"14806 Running Deer Trl, Austin, TX 78734",595000.0,2212,3,3,14806 Running Deer Trl, 78734
+490,"7709 Saddle Up Dr, Austin, TX 78724",549900.0,2381,3,4,7709 Saddle Up Dr, 78724
+491,"2140 McCloskey St, Austin, TX 78723",850000.0,1439,2,3,2140 McCloskey St, 78723
+492,"10424 Turnbull Loop, Austin, TX 78717",490000.0,1864,3,3,10424 Turnbull Loop, 78717
+493,"4615 White Elm Dr, Austin, TX 78749",724500.0,1654,2,3,4615 White Elm Dr, 78749
+494,"6609 Loretta White Ln, Austin, TX 78744",475000.0,2621,3,4,6609 Loretta White Ln, 78744
+495,"4200 Cat Mountain Dr, Austin, TX 78731",2150000.0,4834,6,5,4200 Cat Mountain Dr, 78731
+496,"8304 Yokohama Ter, Austin, TX 78744",574500.0,2362,3,3,8304 Yokohama Ter, 78744
+497,"8320 Montoya Cir, Austin, TX 78717",575000.0,2444,3,4,8320 Montoya Cir, 78717
+498,"10108 Talleyran Dr, Austin, TX 78750",850000.0,3037,3,3,10108 Talleyran Dr, 78750
+499,"4603 Quicksilver Blvd, Austin, TX 78744",370000.0,1239,2,3,4603 Quicksilver Blvd, 78744
+500,"4610 Halliday Ave, Austin, TX 78725",330000.0,1225,2,3,4610 Halliday Ave, 78725
+501,"4905 W Market Dr, Austin, TX 78731",850000.0,1492,2,3,4905 W Market Dr, 78731
+502,"7812 Crystalbrook W, Austin, TX 78724",485000.0,2089,3,4,7812 Crystalbrook W, 78724
+503,"11311 April Dr, Austin, TX 78753",675000.0,1935,3,4,11311 April Dr, 78753
+504,"6615 Galindo St, Austin, TX 78741",330000.0,858,1,3,6615 Galindo St, 78741
+505,"4705 Balcones Dr, Austin, TX 78731",1400000.0,3043,3,4,4705 Balcones Dr, 78731
+506,"6614 Carisbrooke Ln, Austin, TX 78754",394500.0,1806,2,3,6614 Carisbrooke Ln, 78754
+507,"1010 E 44th St, Austin, TX 78751",775000.0,981,2,2,1010 E 44th St, 78751
+508,"6916 Doyal Dr, Austin, TX 78747",355000.0,1350,3,3,6916 Doyal Dr, 78747
+509,"8902 Meridian Oak Ln, Austin, TX 78744",489000.0,2697,3,4,8902 Meridian Oak Ln, 78744
+510,"2400 Aldford Dr, Austin, TX 78745",445000.0,1268,1,3,2400 Aldford Dr, 78745
+511,"6009 Glen Meadow Dr, Austin, TX 78745",549900.0,1283,2,3,6009 Glen Meadow Dr, 78745
+512,"1106 Enfield Rd, Austin, TX 78703",1375000.0,1722,2,3,1106 Enfield Rd, 78703
+513,"2411 Eagle Point, Lakeway, TX 78734",597000.0,2304,2,3,2411 Eagle Point, 78734
+514,"1912 Montana Sky Dr, Austin, TX 78727",507000.0,2691,3,4,1912 Montana Sky Dr, 78727
+515,"5506 Kings Hwy, Austin, TX 78745",497000.0,1282,2,3,5506 Kings Hwy, 78745
+516,"2705 1/2 Stratford Dr, Austin, TX 78746",6500000.0,4776,5,5,2705 1/2 Stratford Dr, 78746
+517,"6501 Krollton Dr, Austin, TX 78745",625000.0,1354,2,3,6501 Krollton Dr, 78745
+518,"13700 Camp Comfort Ln, Austin, TX 78717",899900.0,3047,3,5,13700 Camp Comfort Ln, 78717
+519,"9004 Hunters Trce, Austin, TX 78758",467000.0,1503,2,3,9004 Hunters Trce, 78758
+520,"4808 Shoal Creek Blvd, Austin, TX 78756",765000.0,2004,2,3,4808 Shoal Creek Blvd, 78756
+521,"7302 Meador Ave, Austin, TX 78752",568000.0,1429,2,3,7302 Meador Ave, 78752
+522,"1301 Pike Rd, Austin, TX 78734",550000.0,1170,1,2,1301 Pike Rd, 78734
+523,"3201 Catalina Dr, Austin, TX 78741",589000.0,2046,3,4,3201 Catalina Dr, 78741
+524,"1701 Pasadena Dr, Austin, TX 78757",1875000.0,2912,4,4,1701 Pasadena Dr, 78757
+525,"2115 Elysian Flds, Austin, TX 78727",495999.0,1458,2,3,2115 Elysian Flds, 78727
+526,"8803 Sansom Rd, Austin, TX 78754",679000.0,3565,3,5,8803 Sansom Rd, 78754
+527,"8404 Sweet Cherry Dr, Austin, TX 78750",1050000.0,3064,3,5,8404 Sweet Cherry Dr, 78750
+528,"1801 W Saint Johns Ave, Austin, TX 78757",665500.0,1516,2,3,1801 W Saint Johns Ave, 78757
+529,"2503 Deerfoot Trl, Austin, TX 78704",2475000.0,2480,3,4,2503 Deerfoot Trl, 78704
+530,"4524 Chesney Ridge Dr, Austin, TX 78749",548000.0,1744,2,3,4524 Chesney Ridge Dr, 78749
+531,"3204 Belgrave Falls Ln, Austin, TX 78748",559000.0,2554,3,3,3204 Belgrave Falls Ln, 78748
+532,"1303 Richcreek Rd, Austin, TX 78757",775000.0,1522,2,3,1303 Richcreek Rd, 78757
+533,"1303 S 5th St, Austin, TX 78704",625000.0,666,1,2,1303 S 5th St, 78704
+534,"1909 Rinker Ranch Dr, Austin, TX 78725",395000.0,1370,2,3,1909 Rinker Ranch Dr, 78725
+535,"4913 Single Shot Cir, Austin, TX 78723",480000.0,1209,2,3,4913 Single Shot Cir, 78723
+536,"12109 Buckingham Gate Rd, Austin, TX 78748",435000.0,1265,2,3,12109 Buckingham Gate Rd, 78748
+537,"5017 Trail West Dr, Austin, TX 78735",978000.0,2389,3,4,5017 Trail West Dr, 78735
+538,"2306 Bowman Ave, Austin, TX 78703",1695000.0,2774,2,4,2306 Bowman Ave, 78703
+539,"6604 Lexington Rd, Austin, TX 78757",1385000.0,2501,3,5,6604 Lexington Rd, 78757
+540,"2006 Ann Arbor Ave, Austin, TX 78704",1685000.0,2777,3,4,2006 Ann Arbor Ave, 78704
+541,"1706 Rockmoor Ave, Austin, TX 78703",4395000.0,3689,4,3,1706 Rockmoor Ave, 78703
+542,"9000 Pin Brush Dr, Austin, TX 78748",550000.0,2068,3,3,9000 Pin Brush Dr, 78748
+543,"1408 Wooten Dr, Austin, TX 78757",475000.0,1303,2,3,1408 Wooten Dr, 78757
+545,"107 W Concord Cir, Austin, TX 78737",899999.0,2891,3,4,107 W Concord Cir, 78737
+546,"150 Saint Richie Ln, Austin, TX 78737",595000.0,2064,2,3,150 Saint Richie Ln, 78737
+547,"11407 Eddie Egan Ln, Austin, TX 78748",435000.0,1422,3,3,11407 Eddie Egan Ln, 78748
+548,"11429 Mordred Ct, Austin, TX 78739",749500.0,2364,2,3,11429 Mordred Ct, 78739
+549,"5700 Wilder Rdg, Austin, TX 78759",1095000.0,3017,3,4,5700 Wilder Rdg, 78759
+550,"5404 Ingersoll Ln, Austin, TX 78744",415000.0,1297,2,3,5404 Ingersoll Ln, 78744
+551,"280 Abbey Dr, Austin, TX 78737",624999.0,2430,2,4,280 Abbey Dr, 78737
+552,"8707 Azalea Trl, Austin, TX 78759",1279000.0,2462,3,3,8707 Azalea Trl, 78759
+553,"4801 Senora Creek Ct, Austin, TX 78735",960000.0,2797,3,4,4801 Senora Creek Ct, 78735
+554,"621 Mairo St, Austin, TX 78748",480000.0,2054,4,5,621 Mairo St, 78748
+555,"3807 Hyridge Dr, Austin, TX 78759",1575000.0,2475,3,4,3807 Hyridge Dr, 78759
+556,"1700 W 32nd St, Austin, TX 78703",3750000.0,3575,6,5,1700 W 32nd St, 78703
+557,"241 Venice Cv, Austin, TX 78737",849900.0,3421,4,5,241 Venice Cv, 78737
+558,"609 Clifford Dr #1, Austin, TX 78745",997000.0,2615,3,4,609 Clifford Dr #1, 78745
+559,"5913 Sunshine Dr, Austin, TX 78757",775000.0,1554,2,4,5913 Sunshine Dr, 78757
+560,"9414 S Chisholm Trl, Austin, TX 78748",475000.0,1916,2,4,9414 S Chisholm Trl, 78748
+561,"11108 Bruneau Trl, Austin, TX 78754",495000.0,2347,3,4,11108 Bruneau Trl, 78754
+562,"7506 Arboleda Cv, Austin, TX 78745",524900.0,2020,2,3,7506 Arboleda Cv, 78745
+563,"4616 Hank Ave, Austin, TX 78745",495000.0,766,1,2,4616 Hank Ave, 78745
+564,"3922 Knollwood Dr, Austin, TX 78731",1325000.0,2668,3,4,3922 Knollwood Dr, 78731
+565,"5508 Cordell Ln, Austin, TX 78723",599000.0,1577,2,3,5508 Cordell Ln, 78723
+566,"7001 Woodhue Dr #A, Austin, TX 78745",475000.0,1043,2,2,7001 Woodhue Dr #A, 78745
+567,"3209 Rustic River Cv, Austin, TX 78746",2750000.0,7000,6,6,3209 Rustic River Cv, 78746
+568,"1205 McKinley Ave, Austin, TX 78702",990000.0,1958,2,3,1205 McKinley Ave, 78702
+569,"2407 Coral Ridge Cir, Austin, TX 78747",599000.0,2284,2,3,2407 Coral Ridge Cir, 78747
+570,"296 Jacksdaw Dr, Austin, TX 78737",1295000.0,4162,5,5,296 Jacksdaw Dr, 78737
+571,"9624 Newfoundland Cir, Austin, TX 78758",599000.0,1698,2,3,9624 Newfoundland Cir, 78758
+572,"12408 Granton Cv, Austin, TX 78754",382500.0,1856,3,3,12408 Granton Cv, 78754
+573,"5211 Emerald Meadow Dr, Austin, TX 78745",525000.0,1368,2,3,5211 Emerald Meadow Dr, 78745
+574,"4418 Mount Vernon Dr #A, Austin, TX 78745",975000.0,2003,3,3,4418 Mount Vernon Dr #A, 78745
+575,"11200 Kirkland Hill Path, Austin, TX 78754",386000.0,1647,2,3,11200 Kirkland Hill Path, 78754
+576,"11609 Queens Way, Austin, TX 78759",729000.0,2286,2,4,11609 Queens Way, 78759
+577,"166 Indian Grass Cv, Austin, TX 78737",898000.0,3204,3,3,166 Indian Grass Cv, 78737
+578,"1105 Castile Rd, Austin, TX 78733",2300000.0,4132,4,4,1105 Castile Rd, 78733
+580,"2801 Bonnie Rd, Austin, TX 78703",4000000.0,4621,5,4,2801 Bonnie Rd, 78703
+581,"10005 Nocturne Cv, Austin, TX 78750",800000.0,2250,2,3,10005 Nocturne Cv, 78750
+582,"9010 Jodie Ln, Austin, TX 78748",595000.0,2596,3,4,9010 Jodie Ln, 78748
+583,"6203 Langham St #2, Austin, TX 78741",485000.0,975,3,2,6203 Langham St #2, 78741
+584,"11910 Farrier Ln, Austin, TX 78748",475000.0,2253,3,4,11910 Farrier Ln, 78748
+585,"1308 July Dr, Austin, TX 78753",550000.0,2450,3,3,1308 July Dr, 78753
+586,"11504 February Dr, Austin, TX 78753",1350000.0,2450,4,3,11504 February Dr, 78753
+587,"12806 Lamppost Ln, Austin, TX 78727",479900.0,1312,2,3,12806 Lamppost Ln, 78727
+588,"3304 Oxsheer Dr, Austin, TX 78732",919900.0,3333,3,4,3304 Oxsheer Dr, 78732
+590,"2707 Valley Springs Rd, Austin, TX 78746",3250000.0,4320,5,4,2707 Valley Springs Rd, 78746
+591,"902 W Village Ln, Austin, TX 78758",375000.0,1137,3,3,902 W Village Ln, 78758
+592,"10208 La Costa Dr, Austin, TX 78747",619000.0,2742,3,3,10208 La Costa Dr, 78747
+593,"8107 Middle Ct, Austin, TX 78759",699900.0,2097,2,2,8107 Middle Ct, 78759
+594,"6820 Kenosha Pass, Austin, TX 78749",965000.0,2219,2,4,6820 Kenosha Pass, 78749
+596,"2307 Windsor Rd, Austin, TX 78703",6200000.0,5548,6,4,2307 Windsor Rd, 78703
+597,"5616 S 1st St UNIT 33, Austin, TX 78745",599000.0,1844,3,3,5616 S 1st St UNIT 33, 78745
+598,"5509 Durango Pass, Austin, TX 78724",556395.0,2440,3,4,5509 Durango Pass, 78724
+599,"2107 Nathan Dr, Austin, TX 78728",455000.0,1394,2,3,2107 Nathan Dr, 78728
+600,"8133 Ladera Verde Dr, Austin, TX 78739",975000.0,3124,3,4,8133 Ladera Verde Dr, 78739
+601,"18104 Painted Horse Cv, Austin, TX 78738",799000.0,2909,3,3,18104 Painted Horse Cv, 78738
+602,"13918 Hummingbird Ln, Austin, TX 78732",685000.0,2211,3,3,13918 Hummingbird Ln, 78732
+603,"7511 Black Mountain Dr, Austin, TX 78736",820000.0,3299,3,5,7511 Black Mountain Dr, 78736
+604,"8011 Orizzonte St, Austin, TX 78744",399900.0,1518,2,2,8011 Orizzonte St, 78744
+605,"5908 Aylford Ct, Austin, TX 78739",839000.0,2603,2,4,5908 Aylford Ct, 78739
+607,"220 Piedmont Hills Pass, Austin, TX 78732",875000.0,2933,3,4,220 Piedmont Hills Pass, 78732
+608,"5729 Brocade Dr, Austin, TX 78724",399000.0,1845,2,4,5729 Brocade Dr, 78724
+609,"8405 Twiggy Ln, Austin, TX 78747",415000.0,1420,2,3,8405 Twiggy Ln, 78747
+610,"3206 Western Dr, Austin, TX 78745",624999.0,1557,3,3,3206 Western Dr, 78745
+611,"14401 Robert I Walker Blvd, Austin, TX 78728",469900.0,1500,3,3,14401 Robert I Walker Blvd, 78728
+612,"1505 Newning Ave, Austin, TX 78704",2500000.0,1960,2,3,1505 Newning Ave, 78704
+613,"11200 Los Comancheros Rd, Austin, TX 78717",549000.0,2129,3,3,11200 Los Comancheros Rd, 78717
+614,"6911 Greenshores Dr, Austin, TX 78730",2850000.0,5236,6,5,6911 Greenshores Dr, 78730
+615,"1212 Eleanor St #2, Austin, TX 78721",574900.0,891,2,2,1212 Eleanor St #2, 78721
+616,"2307 Tower Dr, Austin, TX 78703",1650000.0,1860,2,3,2307 Tower Dr, 78703
+617,"6302 Capriola Dr, Austin, TX 78745",584900.0,1369,2,3,6302 Capriola Dr, 78745
+618,"5805 Swayden Ln, Austin, TX 78745",665000.0,2035,3,3,5805 Swayden Ln, 78745
+619,"1402 Theodora Cv, Austin, TX 78753",455000.0,1472,2,5,1402 Theodora Cv, 78753
+620,"6003 Messenger Stake, Austin, TX 78746",1099000.0,2806,2,3,6003 Messenger Stake, 78746
+622,"330 Torrington Dr, Austin, TX 78737",775000.0,3032,4,4,330 Torrington Dr, 78737
+623,"1001 Walter St #1, Austin, TX 78702",899000.0,1939,3,3,1001 Walter St #1, 78702
+624,"4307 Zuni Dr, Austin, TX 78759",625000.0,1823,2,3,4307 Zuni Dr, 78759
+625,"1138 Northwestern Ave, Austin, TX 78702",755000.0,1394,2,4,1138 Northwestern Ave, 78702
+627,"12410 Blossomwood Dr, Austin, TX 78727",725000.0,2359,3,4,12410 Blossomwood Dr, 78727
+628,"7703 Song Sparrow Dr, Austin, TX 78744",494517.0,2527,4,5,7703 Song Sparrow Dr, 78744
+629,"1909 Whitebead Trl, Austin, TX 78734",598000.0,2030,2,3,1909 Whitebead Trl, 78734
+630,"13501 Metric Blvd UNIT 27, Austin, TX 78727",569000.0,2242,3,4,13501 Metric Blvd UNIT 27, 78727
+631,"8417 Silhouette St, Austin, TX 78744",692000.0,2436,3,4,8417 Silhouette St, 78744
+632,"11201 Harlyn Bay Rd, Austin, TX 78754",489000.0,2636,2,3,11201 Harlyn Bay Rd, 78754
+633,"3702 Alexandria Dr, Austin, TX 78749",455000.0,1639,2,2,3702 Alexandria Dr, 78749
+634,"712 E 44th St APT A, Austin, TX 78751",865000.0,2052,3,4,712 E 44th St APT A, 78751
+635,"9106 Balcones Club Dr, Austin, TX 78750",939900.0,2961,3,3,9106 Balcones Club Dr, 78750
+636,"7689 Delwau Ln, Austin, TX 78725",799980.0,1500,4,3,7689 Delwau Ln, 78725
+637,"11803 Three Oaks Trl, Austin, TX 78759",735000.0,2322,2,4,11803 Three Oaks Trl, 78759
+638,"15105 Sun Bird Ln, Austin, TX 78734",539500.0,1661,2,3,15105 Sun Bird Ln, 78734
+639,"3403 Cambridge Ct #B, Austin, TX 78723",675000.0,1100,3,2,3403 Cambridge Ct #B, 78723
+640,"8101 Bestride Bnd, Austin, TX 78744",690000.0,2809,3,4,8101 Bestride Bnd, 78744
+641,"2401 Never Bend Cv, Austin, TX 78746",3895000.0,5405,6,5,2401 Never Bend Cv, 78746
+642,"15214 Kevin Ln, Austin, TX 78734",775000.0,2921,2,3,15214 Kevin Ln, 78734
+643,"1704 Meander Dr, Austin, TX 78721",495000.0,864,1,3,1704 Meander Dr, 78721
+644,"4005 Balcones Dr, Austin, TX 78731",3749950.0,3854,5,4,4005 Balcones Dr, 78731
+645,"12904 Stanzel Dr, Austin, TX 78729",675000.0,2383,3,4,12904 Stanzel Dr, 78729
+647,"716 Sheraton Ave, Austin, TX 78745",549000.0,1418,2,3,716 Sheraton Ave, 78745
+648,"2003 Ohlen Rd, Austin, TX 78757",540000.0,1255,1,3,2003 Ohlen Rd, 78757
+649,"6806 Wake Forest Ln, Austin, TX 78723",429900.0,1275,1,3,6806 Wake Forest Ln, 78723
+650,"403 Ridgewood Rd, Austin, TX 78746",3949000.0,4171,5,6,403 Ridgewood Rd, 78746
+651,"11709 Barrington Way, Austin, TX 78759",625000.0,1449,2,3,11709 Barrington Way, 78759
+652,"8001 Borden Springs Ct, Austin, TX 78717",775000.0,3219,4,4,8001 Borden Springs Ct, 78717
+653,"4607 Trail West Dr, Austin, TX 78735",925000.0,2196,3,4,4607 Trail West Dr, 78735
+654,"1400 Drake Ave, Austin, TX 78704",2600000.0,2456,4,4,1400 Drake Ave, 78704
+655,"15215 Thatcher Dr, Austin, TX 78717",950000.0,4019,4,5,15215 Thatcher Dr, 78717
+656,"1708 Garden St UNIT 1, Austin, TX 78702",875000.0,1288,2,3,1708 Garden St UNIT 1, 78702
+657,"2300 Southern Oaks Dr, Austin, TX 78745",1250000.0,2230,3,4,2300 Southern Oaks Dr, 78745
+658,"8221 Phantom Canyon Dr, Austin, TX 78726",949000.0,4189,4,5,8221 Phantom Canyon Dr, 78726
+659,"1121 Salem Park Ct, Austin, TX 78745",545000.0,1514,3,3,1121 Salem Park Ct, 78745
+660,"1802 Hether St, Austin, TX 78704",3373000.0,3380,5,5,1802 Hether St, 78704
+661,"11716 Saddle Rock Dr, Austin, TX 78725",500000.0,2322,3,3,11716 Saddle Rock Dr, 78725
+662,"2401 W 12th St, Austin, TX 78703",2195000.0,3289,4,4,2401 W 12th St, 78703
+663,"1409 Falconer Way, Austin, TX 78748",449000.0,1910,3,4,1409 Falconer Way, 78748
+664,"13401 Bullick Hollow Rd, Austin, TX 78726",5995000.0,6178,5,7,13401 Bullick Hollow Rd, 78726
+665,"5000 Savorey Ln, Austin, TX 78744",335859.0,907,1,2,5000 Savorey Ln, 78744
+666,"8507 Chalk Knoll Dr, Austin, TX 78735",3795000.0,6603,6,5,8507 Chalk Knoll Dr, 78735
+667,"1600 Susan Dr, Austin, TX 78734",890000.0,3183,3,3,1600 Susan Dr, 78734
+668,"7810 Libretto Ln, Austin, TX 78744",514442.0,3125,3,4,7810 Libretto Ln, 78744
+669,"708 E 47th St UNIT B, Austin, TX 78751",912000.0,1928,3,3,708 E 47th St UNIT B, 78751
+670,"12800 Partridge Bend Dr, Austin, TX 78729",595000.0,2285,3,4,12800 Partridge Bend Dr, 78729
+672,"4901 Bandera Rd, Austin, TX 78721",550000.0,1689,2,4,4901 Bandera Rd, 78721
+673,"11601 Barchetta Dr, Austin, TX 78758",499900.0,1836,2,3,11601 Barchetta Dr, 78758
+675,"7021 Van Buren Ln, Austin, TX 78724",534920.0,2081,3,4,7021 Van Buren Ln, 78724
+676,"10729 Canfield Dr, Austin, TX 78739",2175000.0,5009,5,5,10729 Canfield Dr, 78739
+677,"4904 Louis Ave, Austin, TX 78721",485000.0,834,1,2,4904 Louis Ave, 78721
+678,"12513 Morelia Way, Austin, TX 78748",749900.0,4033,5,5,12513 Morelia Way, 78748
+679,"6303 Clubway Ln, Austin, TX 78745",479500.0,1770,2,4,6303 Clubway Ln, 78745
+720,"2813 Sissinghurst Dr, Austin, TX 78745",515000.0,1681,3,3,2813 Sissinghurst Dr, 78745
+721,"616 W Monroe St, Austin, TX 78704",3200000.0,5131,6,6,616 W Monroe St, 78704
+722,"3209 E 16th St, Austin, TX 78721",350000.0,792,1,3,3209 E 16th St, 78721
+723,"3209 Lynnbrook Dr, Austin, TX 78748",588500.0,2334,2,4,3209 Lynnbrook Dr, 78748
+724,"7013 Loretta White Ln, Austin, TX 78744",429500.0,1512,2,3,7013 Loretta White Ln, 78744
+725,"2422 S 6th St, Austin, TX 78704",2590000.0,2810,4,3,2422 S 6th St, 78704
+726,"2301 W 10th St, Austin, TX 78703",1190000.0,1776,3,4,2301 W 10th St, 78703
+727,"1304 Tetbury Ln, Austin, TX 78748",475000.0,2194,3,3,1304 Tetbury Ln, 78748
+728,"5011 Balcones Dr UNIT D, Austin, TX 78731",1100000.0,2544,4,4,5011 Balcones Dr UNIT D, 78731
+730,"6508 Garden Rose Path, Austin, TX 78754",389999.0,1788,3,3,6508 Garden Rose Path, 78754
+731,"10602 Skyflower Dr, Austin, TX 78759",1275000.0,3325,4,4,10602 Skyflower Dr, 78759
+732,"11901 Swearingen Dr APT 33F, Austin, TX 78758",350000.0,1042,3,2,11901 Swearingen Dr APT 33F, 78758
+733,"1103 Cadence Dr, Pflugerville, TX 78660",535000.0,2994,3,4,1103 Cadence Dr, 78660
+734,"6710 Stonleigh Pl, Austin, TX 78744",375000.0,1516,1,4,6710 Stonleigh Pl, 78744
+735,"6846 Thistle Hill Way, Austin, TX 78754",525000.0,2643,3,5,6846 Thistle Hill Way, 78754
+736,"11404 Archstone Dr, Austin, TX 78739",1185000.0,3435,4,4,11404 Archstone Dr, 78739
+737,"2819 Nordham Dr, Austin, TX 78745",637000.0,1517,2,3,2819 Nordham Dr, 78745
+738,"601 Westmorland Dr, Austin, TX 78745",499000.0,992,2,3,601 Westmorland Dr, 78745
+739,"11312 Hollister Dr, Austin, TX 78739",1150000.0,3326,3,4,11312 Hollister Dr, 78739
+740,"7801 House Finch Dr, Austin, TX 78744",467882.0,2458,4,4,7801 House Finch Dr, 78744
+741,"701 W Caddo St, Austin, TX 78753",523999.0,1540,2,3,701 W Caddo St, 78753
+742,"5516 Loma Alta Dr, Austin, TX 78744",465000.0,2068,3,4,5516 Loma Alta Dr, 78744
+743,"1205 Echo Ln, Austin, TX 78745",575000.0,1897,2,4,1205 Echo Ln, 78745
+744,"2109 Thornton Rd UNIT A, Austin, TX 78704",965000.0,2067,3,3,2109 Thornton Rd UNIT A, 78704
